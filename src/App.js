@@ -29,6 +29,7 @@ function App() {
 <Route element ={<Addstaffpage/>} path="/addstaffpage"/>
 <Route element ={<Updatestaffprofile/>} path="/updatestaff"/>
 <Route element ={<Home/>} path="/"/>
+{/* <Route element ={<Home/>} path="/"/> */}
 
 </Routes>
 </BrowserRouter>
